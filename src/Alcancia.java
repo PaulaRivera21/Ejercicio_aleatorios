@@ -1,4 +1,4 @@
-//María Paula Rivera Pazos Ejercicio Quiz 22/08/24
+//María Paula Rivera Pazos Ejercicio Quiz 22/08/24.
 import java.util.Scanner;
 
 public class Alcancia {
